@@ -2,6 +2,8 @@
 
 A sophisticated C++ ray tracing engine that renders 3D scenes with realistic lighting and shadows. The raytracer reads scene descriptions from configuration files and outputs images in PPM format.
 
+![Exmaple :](raytracer.png)
+
 ## Features
 
 ### Primitives
